@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	gwl "github.com/adamveld12/gowatch/log"
+	gwl "github.com/andrewrothman/gowatch/log"
 	"gopkg.in/fsnotify.v1"
 )
 

@@ -3,7 +3,7 @@ package project
 import (
 	"sync"
 
-	gwl "github.com/adamveld12/gowatch/log"
+	gwl "github.com/andrewrothman/gowatch/log"
 )
 
 func ExecuteBuildSteps(projectDirectory, outputName string, appArguments string, shouldTest bool, shouldLint bool) *ExecuteHandle {

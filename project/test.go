@@ -4,7 +4,7 @@ import (
 	"os"
 	"os/exec"
 
-	gwl "github.com/adamveld12/gowatch/log"
+	gwl "github.com/andrewrothman/gowatch/log"
 )
 
 func test(projectDirectory string) bool {

@@ -9,7 +9,7 @@ import (
 
 	"github.com/fatih/color"
 
-	gwl "github.com/adamveld12/gowatch/log"
+	gwl "github.com/andrewrothman/gowatch/log"
 	linter "github.com/golang/lint"
 )
 

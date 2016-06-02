@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	gwl "github.com/adamveld12/gowatch/log"
-	"github.com/adamveld12/gowatch/project"
-	"github.com/adamveld12/gowatch/watch"
+	gwl "github.com/andrewrothman/gowatch/log"
+	"github.com/andrewrothman/gowatch/project"
+	"github.com/andrewrothman/gowatch/watch"
 	"github.com/fatih/color"
 	"github.com/hashicorp/logutils"
 )

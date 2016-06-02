@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	gwl "github.com/adamveld12/gowatch/log"
+	gwl "github.com/andrewrothman/gowatch/log"
 )
 
 type ExecuteHandle struct {
